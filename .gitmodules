@@ -1,0 +1,69 @@
+[submodule "src/ros-industrial/industrial_core"]
+	path = src/ros-industrial/industrial_core
+	url = https://github.com/ros-industrial/industrial_core.git
+[submodule "src/ros-planning/moveit"]
+	path = src/ros-planning/moveit
+	url = https://github.com/jaymwong/moveit.git
+[submodule "externals/fcl"]
+	path = externals/fcl
+	url = https://github.com/flexible-collision-library/fcl.git
+[submodule "src/ros-planning/moveit_msgs"]
+	path = src/ros-planning/moveit_msgs
+	url = https://github.com/ros-planning/moveit_msgs.git
+[submodule "src/object_recognition_msgs"]
+	path = src/object_recognition_msgs
+	url = https://github.com/wg-perception/object_recognition_msgs.git
+[submodule "src/octomap_msgs"]
+	path = src/octomap_msgs
+	url = https://github.com/OctoMap/octomap_msgs.git
+[submodule "src/ros-planning/srdfdom"]
+	path = src/ros-planning/srdfdom
+	url = https://github.com/ros-planning/srdfdom.git
+[submodule "src/urdf_parser_py"]
+	path = src/urdf_parser_py
+	url = https://github.com/ros/urdf_parser_py.git
+[submodule "src/ros-planning/moveit_resources"]
+	path = src/ros-planning/moveit_resources
+	url = https://github.com/ros-planning/moveit_resources.git
+[submodule "externals/ompl"]
+	path = externals/ompl
+	url = https://github.com/ompl/ompl.git
+[submodule "src/ros-planning/warehouse_ros"]
+	path = src/ros-planning/warehouse_ros
+	url = https://github.com/ros-planning/warehouse_ros.git
+[submodule "src/ros-controls/ros_control"]
+	path = src/ros-controls/ros_control
+	url = https://github.com/ros-controls/ros_control.git
+[submodule "src/ros-controls/realtime_tools"]
+	path = src/ros-controls/realtime_tools
+	url = https://github.com/ros-controls/realtime_tools.git
+[submodule "src/geometry"]
+	path = src/geometry
+	url = https://github.com/ros/geometry.git
+[submodule "src/geometry2"]
+	path = src/geometry2
+	url = https://github.com/ros/geometry2.git
+[submodule "src/dynamic_reconfigure"]
+	path = src/dynamic_reconfigure
+	url = https://github.com/ros/dynamic_reconfigure.git
+[submodule "src/ros-visualization/interactive_markers"]
+	path = src/ros-visualization/interactive_markers
+	url = https://github.com/ros-visualization/interactive_markers.git
+[submodule "src/ros-planning/shape_tools"]
+	path = src/ros-planning/shape_tools
+	url = https://github.com/ros-planning/shape_tools.git
+[submodule "src/ros-interactive-manipulation/manipulation_msgs"]
+	path = src/ros-interactive-manipulation/manipulation_msgs
+	url = https://github.com/ros-interactive-manipulation/manipulation_msgs.git
+[submodule "src/ros-interactive-manipulation/household_objects_database_msgs"]
+	path = src/ros-interactive-manipulation/household_objects_database_msgs
+	url = https://github.com/ros-interactive-manipulation/household_objects_database_msgs.git
+[submodule "src/ros-planning/moveit_visual_tools"]
+	path = src/ros-planning/moveit_visual_tools
+	url = https://github.com/ros-planning/moveit_visual_tools.git
+[submodule "src/rviz_visual_tools"]
+	path = src/rviz_visual_tools
+	url = https://github.com/davetcoleman/rviz_visual_tools.git
+[submodule "src/graph_msgs"]
+	path = src/graph_msgs
+	url = https://github.com/davetcoleman/graph_msgs.git
