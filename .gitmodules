@@ -37,12 +37,6 @@
 [submodule "src/ros-controls/realtime_tools"]
 	path = src/ros-controls/realtime_tools
 	url = https://github.com/ros-controls/realtime_tools.git
-[submodule "src/geometry"]
-	path = src/geometry
-	url = https://github.com/ros/geometry.git
-[submodule "src/geometry2"]
-	path = src/geometry2
-	url = https://github.com/ros/geometry2.git
 [submodule "src/dynamic_reconfigure"]
 	path = src/dynamic_reconfigure
 	url = https://github.com/ros/dynamic_reconfigure.git
